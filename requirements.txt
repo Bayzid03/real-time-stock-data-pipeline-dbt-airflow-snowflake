@@ -1,0 +1,6 @@
+kafka-python
+boto3
+snowflake-connector-python
+dbt-snowflake
+dbt-core
+requests
