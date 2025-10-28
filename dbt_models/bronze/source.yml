@@ -1,7 +1,8 @@
 version: 2
 sources:
   - name: raw
-    database: Stock_DB
-    schema: Bronze
+    database: STOCKS_DB
+    schema: BRONZE
     tables:
       - name: bronze_stock_raw
+
